@@ -1,7 +1,7 @@
 {
     "name": "Yisemiramis Adblocker",
     "version": "1.0",
-    "description": "Yisemiramis Adblocker Tutorial",
+    "description": "Yisemiramis Adblocker",
     "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
     "background": {
         "scripts": ["background.js"]
