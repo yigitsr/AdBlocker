@@ -3,7 +3,7 @@ Basic chrome ad blocker extension.
 
 MIT License
 
-Copyright (c) [2021] [Yigit Sereflioglu]
+Copyright (c) [2020] [Yigit Sereflioglu]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
